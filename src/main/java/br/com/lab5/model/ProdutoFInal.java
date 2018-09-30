@@ -9,7 +9,7 @@ import br.com.lab5.enumerate.ProdutoFinalEnum;
  * produzidos no local através da matéria prima. 
  */
 
-public class ProdutoFInal {
+public class ProdutoFinal {
 
 	private Long id;
 	private String codigo;
